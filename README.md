@@ -1,1 +1,1 @@
-# instagram-slide-dots
+# react-instagram-dots
